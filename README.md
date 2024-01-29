@@ -7,10 +7,9 @@ The Smart Waste Management System (SWMS) is a project that aims to provide real-
 With this app, you'll be able to manage your surrounding wastes like never before.
 
 ### To Download the application
-  ```bash
-    download [Swms App](https://www.mediafire.com/file/508xbl946t5s19e/app-release.apk/file)
-    ```
- 
+
+  download [Swms App](https://www.mediafire.com/file/508xbl946t5s19e/app-release.apk/file)
+
 ## Hardware Components
 
 The hardware components used in this project include:
@@ -63,12 +62,11 @@ To set up the Smart Waste Management System, follow these steps:
    - The optimized waste collection path can be generated and followed for efficient waste collection.
    - Receive SMS notifications for important system updates.
 
-### To Download the application
-
-  download [Swms App](https://www.mediafire.com/file/508xbl946t5s19e/app-release.apk/file)
 
 ### To execute live application, kindly proceed with the installation process of the Android package file located at the following directory: 
-                      swms/SWMS-apk/build/app/outputs/flutter-apk/app-release.apk,
+   ```bash
+   swms/SWMS-apk/build/app/outputs/flutter-apk/app-release.apk,
+   ```
 on your Android device.
 
 ## Features
@@ -148,12 +146,14 @@ To use the SWMS:
 The Smart Waste Management System has potential for further enhancements and improvements. Some suggested future enhancements include:
 
 - Integration of additional sensors for more accurate data collection, such as fill-level sensors or temperature sensors.
-- Integration with machine learning algorithms to predict and optimize dustbin collection schedules based on historical data and other factors like weather conditions or special events.
+- Integration with machine learning algorithms to predict and optimize dustbin collection schedules based on historical data and other factors like weather 
+  conditions or special events.
 - Implementation of a centralized management system to monitor multiple SWMS installations and provide comprehensive analytics and reporting.
 - Development of a web-based dashboard for administrators to monitor and manage the SWMS system, generate reports, and configure
 - Historical Data and Analytics: Collect and store historical data on waste generation and collection patterns for analysis and optimization purposes.
 - Mobile Application: Develop a dedicated mobile application to provide on-the-go access to the system's features.
-- Integration with Waste Management Services: Integrate the system with waste management services for automatic scheduling of waste collection trucks and real-time tracking.
+- Integration with Waste Management Services: Integrate the system with waste management services for automatic scheduling of waste collection trucks and     
+  real-time tracking.
 - Machine Learning Algorithms: Utilize machine learning algorithms to predict fill levels, optimize collection routes
 
 ## Contact
