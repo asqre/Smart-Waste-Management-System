@@ -115,17 +115,12 @@ The SWMS project consists of the following components:
 ## Hardware Interface
 ![image](https://github.com/asqre/Smart-Waste-Management-System/assets/62792214/86e74905-5a76-406a-845e-409418358d46)
 
-![image](https://github.com/asqre/SWMS-apk/assets/62792214/81a82bfe-5cbb-4a9a-873f-5406a2b7af51)
-
 ## Application Interface
-
-![image](https://github.com/asqre/SWMS-apk/assets/62792214/16b55a21-00ac-48e2-a193-9c83db0212f6)
-![image](https://github.com/asqre/SWMS-apk/assets/62792214/68830357-2171-43c1-b0d1-b84e689b598f)
-![image](https://github.com/asqre/SWMS-apk/assets/62792214/d31c8031-ae3a-4e62-be8f-df018842dc54)
-
-
-![image](https://github.com/asqre/SWMS-apk/assets/62792214/223901b7-368a-40d4-9935-addd5495b7d3)
-![image](https://github.com/asqre/SWMS-apk/assets/62792214/04a1948f-0e9f-47d4-a882-fbf10ed62c60)
+![image](https://github.com/asqre/Smart-Waste-Management-System/assets/62792214/d3c78d97-8488-4278-8d70-325e4051db9e)
+![image](https://github.com/asqre/Smart-Waste-Management-System/assets/62792214/95c04a81-82bb-4541-8c8b-e059993ff62f)
+![image](https://github.com/asqre/Smart-Waste-Management-System/assets/62792214/0d03290b-9e9a-4920-b0cd-5016b1714ab5)
+![image](https://github.com/asqre/Smart-Waste-Management-System/assets/62792214/0c56e8f0-ab7a-4b0f-8296-1fd882914571)
+![image](https://github.com/asqre/Smart-Waste-Management-System/assets/62792214/3b1c2882-1c7e-4e93-a5d4-6b43fa521f0a)
 
 
 To use the SWMS:
